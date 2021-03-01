@@ -1,0 +1,48 @@
+topic 0:
+  "trial"   0.015
+  "people"    0.008
+  "test"    0.007
+  "take"    0.007
+  "trump"    0.006
+  "make"    0.005
+  "health"    0.005
+  "development"    0.004
+  "news"    0.004
+  "state"   0.004
+
+topic 1:
+  "first"   0.009
+  "trump"    0.007
+  "trial"    0.007
+  "test"    0.005
+  "people"    0.005
+  "scientist"    0.005
+  "say"    0.004
+  "could"    0.004
+  "treatment"    0.004
+  "need"   0.004
+
+topic 2:
+  "say"   0.010
+  "people"    0.008
+  "trump"    0.007
+  "work"    0.007
+  "trial"    0.006
+  "test"    0.006
+  "year"    0.006
+  "news"    0.006
+  "world"    0.005
+  "first"   0.005
+
+topic 3:
+  "say"   0.010
+  "develop"    0.007
+  "make"    0.007
+  "take"    0.006
+  "work"    0.006
+  "trial"    0.006
+  "health"    0.005
+  "people"    0.005
+  "plan"    0.005
+  "could"   0.005
+
