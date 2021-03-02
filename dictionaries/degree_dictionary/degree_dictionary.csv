@@ -1,4 +1,4 @@
-degree_word,weight
+word,weight
 absolute,2.0
 absolutely,2.0
 alarmingly,2.0
@@ -23,6 +23,7 @@ heinous,2.0
 immensely,2.0
 immoderate,2.0
 incomparably,2.0
+incredibly,2.0
 ingrained,2.0
 matchlessly,2.0
 monstrous,2.0

@@ -5,3 +5,13 @@ never
 nothing
 nobody
 neither
+didnt
+dont
+doesnt
+arent
+isnt
+werent
+wasnt
+wouldnt
+couldnt
+shouldnt
