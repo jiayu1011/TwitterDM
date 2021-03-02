@@ -34,47 +34,51 @@ https://www.kaggle.com/jiayu991011/twitteranalyzing
 >
 >- dictionaries > 
 >
->  degree_dictionary → 程度词典相关文件
+> degree_dictionary → 程度词典相关文件
 >
->  negative_dictionary → 否定词典
+> negative_dictionary → 否定词典
 >
->  sentiment_dictionary → 情感词典
+> sentiment_dictionary → 情感词典
 >
->  
+>
 >
 >- lda_model > 
 >
->  lda.model... → 已经训练好的效果较好的lda模型
+> lda.model... → 已经训练好的效果较好的lda模型
 >
->  
+>
 >
 >- lda_topics > 
 >
->  dominent_topics.csv → 每篇推文对应的主题编号和对应主题构成
+> dominent_topics.csv → 每篇推文对应的主题编号和对应主题构成
 >
->  topics.txt → 所有主题的概率分布构成
+> topics.txt → 所有主题的概率分布构成
 >
->   
+>
 >
 >- key_words > 
 >
->  global → 全局关键词(Top20)
+> global → 全局关键词(Top20)
 >
->  per_month → 逐月关键词(Top10)
+> per_month → 逐月关键词(Top10)
 >
->  
+>
 >
 >- word_cloud > 
 >
->  global → 全局关键词词云
+> global → 全局关键词词云
 >
->  per_month → 逐月关键词词云
+> per_month → 逐月关键词词云
 >
->  
+>
 >
 >- senti_scores >
 >
->  senti_scores.csv → 所有推文对应的情感得分
+> senti_scores.csv → 所有推文对应的情感得分
+>
+> score_distribution.csv → 不同区间内的得分分布频数和百分比
+>
+> score_distribution.png → 得分分布饼图展示
 >
 >
 
